@@ -1,6 +1,6 @@
 Note: javadocs are under the directory called "docs". Compiled class files are under "out".
 
-Welcome to EvoPets! This is our (Group 72's) project, which is a GUI game where you can take care of a pet and watch it grow and evolve as you manage all the pet's stats, like happiness, health, energy, and fullness.
+Welcome to EvoPets!
 
 This game is built using JavaFX, therefore JavaFX is neccessary to run the game. Here are the comprehensive steps to building, compiling, and running EvoPets on your Windows computer.
 
@@ -32,6 +32,4 @@ When you exit the game, a file will be created in your working directory (the on
 When you save a game, a file called <PetName>.ser will be created in the working directory. This file contains information for the save file. The program will load the first three of these files in the load game screen. If you want to delete a save file, delete one of these .ser files.
 
 Have fun with EvoPets!
-
-Group 72
 
